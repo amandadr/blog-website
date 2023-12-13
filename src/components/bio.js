@@ -21,6 +21,10 @@ const Bio = () => {
           social {
             linkedin
           }
+          menuLinks {
+            name
+            link
+          }
         }
       }
     }

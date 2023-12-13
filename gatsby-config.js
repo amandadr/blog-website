@@ -10,6 +10,32 @@
 module.exports = {
   siteMetadata: {
     title: `Amanda Roy`,
+    menuLinks: [
+      {
+        name: "home",
+        link: "/",
+      },
+      {
+        name: "blog",
+        link: "/blog",
+      },
+      {
+        name: "about me",
+        link: "/about-me",
+      },
+      {
+        name: "skills",
+        link: "/skills",
+      },
+      {
+        name: "DLC",
+        link: "/DLC",
+      },
+      {
+        name: "contact",
+        link: "/contact",
+      },
+    ],
     author: {
       name: `Amanda Roy`,
       summary: `who loves interactive media and works in Halifax building useful things.`,
